@@ -1,0 +1,15 @@
+version = 1
+
+[character]
+name = "amp-example-php"
+version = "0.0.1"
+authors = ["Eguo Wang <wangeguo@gmail.com>"]
+edition = "v1"
+description = "A simple PHP example app"
+readme = "README.md"
+homepage = "https://github.com/amphitheatre-app/amp-example-php"
+repository = "https://github.com/amphitheatre-app/amp-example-php"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["example", "php", "getting-started"]
+categories = ["example"]
