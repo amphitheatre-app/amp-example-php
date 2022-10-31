@@ -13,3 +13,7 @@ license = "Apache-2.0"
 license-file = "LICENSE"
 keywords = ["example", "php", "getting-started"]
 categories = ["example"]
+
+[[build.env]]
+name = "BP_PHP_WEB_DIR"
+value = "public_html"

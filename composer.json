@@ -1,0 +1,9 @@
+{
+    "name": "amphitheatre/amp-example-php",
+    "description": "A simple PHP example app",
+    "type": "project",
+    "license": "Apache-2.0",
+    "require": {
+        "php": "8.*"
+    }
+}
